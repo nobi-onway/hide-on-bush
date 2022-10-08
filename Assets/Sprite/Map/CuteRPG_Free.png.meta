@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 1b954c4af3377b5459df448b4e7eaf4f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: board
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19f3b8562be36543b708bc938b69529
+      internalID: -625649895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb030bb040f37d0438f91bf77b80f4ea
+      internalID: -646499937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrier_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82167e58cf02244687ef6641c2a802e
+      internalID: -501242706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CuteRPG_Free_35: 434745603
+      CuteRPG_Free_41: -2113334612
+      CuteRPG_Free_27: 1907802264
+      CuteRPG_Free_15: -319184927
+      CuteRPG_Free_39: -1787907779
+      CuteRPG_Free_54: -1531597965
+      CuteRPG_Free_10: 720692789
+      CuteRPG_Free_45: 544322498
+      CuteRPG_Free_49: -1116597467
+      CuteRPG_Free_5: 450627063
+      CuteRPG_Free_23: -362812259
+      CuteRPG_Free_31: 1771983930
+      CuteRPG_Free_19: 1741454210
+      CuteRPG_Free_11: -822201305
+      CuteRPG_Free_2: -433917779
+      CuteRPG_Free_28: 897264924
+      CuteRPG_Free_18: -1547171692
+      CuteRPG_Free_40: -131173349
+      CuteRPG_Free_44: 555617960
+      CuteRPG_Free_22: 1010576744
+      CuteRPG_Free_6: 1353717212
+      CuteRPG_Free_38: -1291040247
+      CuteRPG_Free_8: 1194067650
+      CuteRPG_Free_47: -517040064
+      CuteRPG_Free_29: 847655303
+      CuteRPG_Free_42: -1818343398
+      barrier_0: -559099950
+      CuteRPG_Free_34: 916590618
+      CuteRPG_Free_12: -188323545
+      barrier_1: -501242706
+      CuteRPG_Free_17: 497174476
+      CuteRPG_Free_20: 1276705365
+      CuteRPG_Free_51: -1321727952
+      CuteRPG_Free_43: -545996896
+      CuteRPG_Free_32: -101827084
+      CuteRPG_Free_30: -166633496
+      CuteRPG_Free_13: 764445084
+      CuteRPG_Free_4: -5641142
+      CuteRPG_Free_0: -2123348686
+      CuteRPG_Free_9: -1812445837
+      CuteRPG_Free_16: 1668183090
+      CuteRPG_Free_33: 430054748
+      CuteRPG_Free_3: 1497199328
+      CuteRPG_Free_48: 490477342
+      CuteRPG_Free_26: 295858764
+      CuteRPG_Free_53: 1508039065
+      CuteRPG_Free_36: 754652988
+      CuteRPG_Free_25: 599118113
+      CuteRPG_Free_1: 68820391
+      CuteRPG_Free_37: 878289341
+      CuteRPG_Free_14: 2138546939
+      CuteRPG_Free_7: -790857029
+      CuteRPG_Free_52: 651423667
+      CuteRPG_Free_21: 1271818084
+      board: -625649895
+      CuteRPG_Free_24: 265593906
+      CuteRPG_Free_46: -870791312
+      CuteRPG_Free_50: 1059962456
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
